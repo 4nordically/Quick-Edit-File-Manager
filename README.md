@@ -1,5 +1,5 @@
 # 📁 Local-File-Organiser
-Uses python to manage files easily, delete bulk files, rename entire folders, and loads more!
+Quick Edit Uses python to manage files easily, delete bulk files, rename entire folders, and loads more!
 
 ## ❓ How to use
 Simply, download the quickedit.py file, and open it using Python.

@@ -1,4 +1,4 @@
-# 📁 Local-File-Organiser
+# 📁 Quick Edit: Local-File-Organiser
 Quick Edit Uses python to manage files easily, delete bulk files, rename entire folders, and loads more!
 
 ## ❓ How to use
@@ -10,6 +10,8 @@ Once it runs, it will open a simple prompt based system where you will respond w
 Make sure to enter the full folder name cd:example/example/folder - NOT just the folder name!
 
 Runs locally, so it's safe and secure. Feel free to review the code at your own leisure.
+
+This is V1 of the Quick Edit Series, check my profile for V2, which expands onto PC Management.
 
 ## 🙋‍♂️ Need Support?
 I'll create a support platform soon!

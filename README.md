@@ -11,7 +11,8 @@ Make sure to enter the full folder name cd:example/example/folder - NOT just the
 
 Runs locally, so it's safe and secure. Feel free to review the code at your own leisure.
 
-This is V1 of the Quick Edit Series, check my profile for V2, which expands onto PC Management.
-
 ## 🙋‍♂️ Need Support?
 I'll create a support platform soon!
+
+++ Important! This file updates regularly for security and safety reasons. Check the new releases section to download new versions of Quick Edit.
+
